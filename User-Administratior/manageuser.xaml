@@ -11,8 +11,8 @@
         <TextBox x:Name="textBox_username" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" VerticalAlignment="Center" Width="120" Margin="0,0,0,60" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <Label x:Name="label_password" Content="Passwort:" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,60,0,71" Width="66" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
         <PasswordBox x:Name="passwordBox" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="52,87,52,56" Width="120" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
-        <Button x:Name="button_close" Content="close" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Margin="10,131,139,10" Click="button_close_Click"/>
-        <Button x:Name="button_add" Content="add" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Margin="139,129,10,10" Click="button_add_Click"/>
+        <Button x:Name="button_close" Content="close" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Margin="10,130,139,9" Click="button_close_Click" Height="20"/>
+        <Button x:Name="button_add" Content="add" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Margin="139,130,10,9" Click="button_add_Click"/>
 
     </Grid>
 </Window>
