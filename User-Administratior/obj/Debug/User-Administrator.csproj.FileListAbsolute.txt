@@ -1,0 +1,37 @@
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\bin\Debug\User-Administrator.exe.config
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\bin\Debug\User-Administrator.exe
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\bin\Debug\User-Administrator.pdb
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\bin\Debug\MySql.Data.dll
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator.csprojResolveAssemblyReference.cache
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\MainWindow.g.cs
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\App.g.cs
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator_MarkupCompile.cache
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator_MarkupCompile.lref
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\MainWindow.baml
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator.g.resources
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User_Administrator.Properties.Resources.resources
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator.csproj.GenerateResource.Cache
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator.exe
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\User-Administrator.pdb
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\manageuser.g.cs
+c:\users\sven-\documents\visual studio 2015\Projects\User-Administrator\User-Administrator\obj\Debug\manageuser.baml
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\bin\Debug\User-Administrator.exe.config
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator.exe
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator.pdb
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\bin\Debug\User-Administrator.exe
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\bin\Debug\User-Administrator.pdb
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\bin\Debug\MySql.Data.dll
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator.csprojResolveAssemblyReference.cache
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\manageuser.g.cs
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\MainWindow.g.cs
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\App.g.cs
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator_MarkupCompile.cache
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator_MarkupCompile.lref
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\manageuser.baml
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\MainWindow.baml
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator.g.resources
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User_Administrator.Properties.Resources.resources
+C:\Users\sven-\Desktop\User-Administrator\User-Administratior\obj\Debug\User-Administrator.csproj.GenerateResource.Cache
+C:\Users\sven-\Desktop\User-Administratior\bin\Debug\User-Administrator.exe.config
+C:\Users\sven-\Desktop\User-Administratior\obj\Debug\User-Administrator.exe
+C:\Users\sven-\Desktop\User-Administratior\obj\Debug\User-Administrator.pdb

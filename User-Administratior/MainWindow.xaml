@@ -1,0 +1,29 @@
+﻿<Window x:Name="User_Administrator" x:Class="User_Administrator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:User_Administrator"
+        mc:Ignorable="d"
+        Title="User_Administrator" Height="350" Width="434.644" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+
+        <ListView Name="ListViewEmployeeDetails" Margin="10,10,105,10" ItemTemplate="{DynamicResource EmployeeTemplate}" ItemsSource="{Binding Path=Table}">
+            <ListView.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="White"  Offset="0"/>
+                </LinearGradientBrush>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Benutzername" DisplayMemberBinding="{Binding Path=Benutzername}"/>
+                    <GridViewColumn Header="Passwort" DisplayMemberBinding="{Binding Path=Passwort}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="button_add" Content="add" HorizontalAlignment="Right" VerticalAlignment="Top" Width="75" Margin="0,11,10,0" Click="button_add_Click"/>
+        <Button x:Name="button_delete" Content="delete" HorizontalAlignment="Right" VerticalAlignment="Top" Width="75" Margin="0,36,10,0" Click="button_delete_Click"/>
+        <Button x:Name="button_close" Content="close" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Margin="0,0,10,10" Click="button_close_Click"/>
+    </Grid>
+</Window>
